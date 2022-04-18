@@ -3,10 +3,10 @@
  "infinite":false,
  "layers":[
         {
-         "data":[0, 0, 0, 0, 0,
+         "data":[0, 2, 0, 0, 0,
+            0, 13, 0, 0, 0,
+            13, 13, 0, 0, 0,
             0, 0, 0, 0, 0,
-            0, 0, 5, 0, 0,
-            0, 13, 1, 0, 0,
             0, 0, 0, 0, 0],
          "height":5,
          "id":1,
@@ -27,7 +27,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/NSABlueprintEditor\/tilesets\/NSABlueprintTileset.tsx"
+         "source":"tilesets\/NSABlueprintTileset.tsx"
         }],
  "tilewidth":65,
  "type":"map",
